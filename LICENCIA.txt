@@ -35,3 +35,8 @@ SOFTWARE.
 Parte del arte en pixel art (retratos, ilustraciones, salas e íconos) se generó con Stable Diffusion XL
 (Stability AI, licencia CreativeML Open RAIL++-M) y el LoRA pixel-art-xl (nerijs, licencia CreativeML
 OpenRAIL-M), usando ComfyUI.
+
+----------------------------------------------------------------
+Fuente Exo 2
+Copyright 2013 The Exo 2 Project Authors (https://github.com/googlefonts/Exo-2.0)
+Esta fuente se distribuye bajo la SIL Open Font License, versión 1.1 (https://openfontlicense.org).
