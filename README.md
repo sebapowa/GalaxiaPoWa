@@ -8,9 +8,9 @@ antes de que ella te encuentre a vos.
 
 ## Descargar
 
-**[Descargá la demo v0.1](https://github.com/sebapowa/GalaxiaPoWa/releases/latest)** (Windows 10 u 11, 64 bits, 39 MB).
+**[Descargá la demo v0.1.1](https://github.com/sebapowa/GalaxiaPoWa/releases/latest)** (Windows 10 u 11, 64 bits, 39 MB).
 
-1. Bajá `GalaxiaPoWa_v0.1.zip` y descomprimilo.
+1. Bajá `GalaxiaPoWa_v0.1.1.zip` y descomprimilo.
 2. Abrí `Galaxia PoWa.exe`. No hace falta instalar nada.
 
 > Windows puede mostrar un aviso de SmartScreen porque el juego no está firmado: tocá **Más información → Ejecutar de todos modos**.
