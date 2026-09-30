@@ -8,9 +8,9 @@ antes de que ella te encuentre a vos.
 
 ## Descargar
 
-**[Descargá la demo v0.1.4](https://github.com/sebapowa/GalaxiaPoWa/releases/latest)** (Windows 10 u 11, 64 bits, 39 MB).
+**[Descargá la demo v0.1.5](https://github.com/sebapowa/GalaxiaPoWa/releases/latest)** (Windows 10 u 11, 64 bits, 39 MB).
 
-1. Bajá `GalaxiaPoWa_v0.1.4.zip` y descomprimilo.
+1. Bajá `GalaxiaPoWa_v0.1.5.zip` y descomprimilo.
 2. Abrí `Galaxia PoWa.exe`. No hace falta instalar nada.
 3. ¿Primera vez? Probá **TUTORIAL GUIADO** en el menú: una expedición de práctica que te va marcando qué hacer.
 
