@@ -8,9 +8,9 @@ antes de que ella te encuentre a vos.
 
 ## Descargar
 
-**[Descargá la demo v0.1.12](https://github.com/sebapowa/GalaxiaPoWa/releases/latest)** (Windows 10 u 11, 64 bits, 39 MB).
+**[Descargá la demo v0.1.13](https://github.com/sebapowa/GalaxiaPoWa/releases/latest)** (Windows 10 u 11, 64 bits, 39 MB).
 
-1. Bajá `GalaxiaPoWa_v0.1.12.zip` y descomprimilo.
+1. Bajá `GalaxiaPoWa_v0.1.13.zip` y descomprimilo.
 2. Abrí `Galaxia PoWa.exe`. No hace falta instalar nada.
 3. ¿Primera vez? Probá **TUTORIAL GUIADO** en el menú: una expedición de práctica que te va marcando qué hacer.
 
@@ -23,6 +23,7 @@ antes de que ella te encuentre a vos.
 - **Una galaxia nueva en cada partida**: unos 140 sistemas en seis regiones, con planetas, razas, estaciones y zonas sin ley.
 - **Supervivencia**: cada salto es un día; la tripulación come, el combustible se gasta y el casco se repara en los mercados.
 - **Combate nave contra nave** por turnos o en tiempo real con pausa: energía del reactor, escudos, armas, drones, fuego, oxígeno y una tripulación que repara, cura y pilotea. Antes de zarpar podés dejar preparada la energía y el orden de las armas.
+- **Peligros del espacio**: campos de asteroides, llamaradas solares que prenden fuego, tormentas iónicas que cortan el reactor y nubes tóxicas, que afectan las peleas de las dos naves.
 - **Abordajes**: con un teletransporte mandás a tu gente a la nave enemiga a pelear cuerpo a cuerpo y romper sus sistemas; si matás a toda su tripulación, la nave es tuya. Algunos piratas también te abordan a vos.
 - **Equipo para la tripulación**: armas cuerpo a cuerpo y a distancia, armaduras y accesorios que se compran en mercados y barracas y cambian cómo pelea cada uno.
 - **Todo con vida**: tu gente y los monstruos pelean con estocadas, tajos y disparos, caen y se desvanecen, caminan y respiran; las naves flotan, los planetas giran y hay estrellas fugaces.
@@ -33,6 +34,7 @@ antes de que ella te encuentre a vos.
 - **Oficios** para tu tripulación, que con los días se vuelve experta y maestra.
 - **12 naves**: tres para empezar y nueve que se desbloquean con logros.
 - **Todo con nombre propio**: bautizá planetas, sistemas, tu nave y a tu gente.
+- **El final de cada expedición** con el resumen del viaje: días, peleas, naves destruidas y capturadas, bases, la tripulación y los que cayeron.
 - **Guardado** automático y tres ranuras para guardar a mano.
 
 | | |
