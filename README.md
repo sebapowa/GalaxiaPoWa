@@ -8,9 +8,9 @@ antes de que ella te encuentre a vos.
 
 ## Descargar
 
-**[Descargá la demo v0.1.11](https://github.com/sebapowa/GalaxiaPoWa/releases/latest)** (Windows 10 u 11, 64 bits, 39 MB).
+**[Descargá la demo v0.1.12](https://github.com/sebapowa/GalaxiaPoWa/releases/latest)** (Windows 10 u 11, 64 bits, 39 MB).
 
-1. Bajá `GalaxiaPoWa_v0.1.11.zip` y descomprimilo.
+1. Bajá `GalaxiaPoWa_v0.1.12.zip` y descomprimilo.
 2. Abrí `Galaxia PoWa.exe`. No hace falta instalar nada.
 3. ¿Primera vez? Probá **TUTORIAL GUIADO** en el menú: una expedición de práctica que te va marcando qué hacer.
 
@@ -25,7 +25,8 @@ antes de que ella te encuentre a vos.
 - **Combate nave contra nave** por turnos o en tiempo real con pausa: energía del reactor, escudos, armas, drones, fuego, oxígeno y una tripulación que repara, cura y pilotea. Antes de zarpar podés dejar preparada la energía y el orden de las armas.
 - **Abordajes**: con un teletransporte mandás a tu gente a la nave enemiga a pelear cuerpo a cuerpo y romper sus sistemas; si matás a toda su tripulación, la nave es tuya. Algunos piratas también te abordan a vos.
 - **Equipo para la tripulación**: armas cuerpo a cuerpo y a distancia, armaduras y accesorios que se compran en mercados y barracas y cambian cómo pelea cada uno.
-- **Lugares especiales**: ruinas, minas abandonadas, cuevas, puestos piratas y estaciones a la deriva. Bajás con hasta cuatro de tu gente y lo recorrés en tiempo real, entre cajas, trampas, bichos y un jefe que cuida un tesoro.
+- **Todo con vida**: tu gente y los monstruos pelean con estocadas, tajos y disparos, caen y se desvanecen, caminan y respiran; las naves flotan, los planetas giran y hay estrellas fugaces.
+- **Lugares especiales**: ruinas, minas abandonadas, cuevas, puestos piratas y estaciones a la deriva. Bajás con hasta cuatro de tu gente y lo recorrés en tiempo real por salas de todas las formas, entre cajas, trampas, bichos y un jefe que cuida su tesoro en un salón al fondo.
 - **33 eventos** al explorar: esclavistas, cazarrecompensas, duelos, contrabandistas, ruinas, naves hospital... muchos terminan en pelea con premio.
 - **Bases y colonias**: minas, depósitos, naves de carga, terraformadores y colonias que crecen, pagan impuestos y atraen piratas.
 - **Cantinas y mercados**: rumores, informantes, gente para contratar, trueques y armas.
